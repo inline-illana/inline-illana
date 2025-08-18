@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings
 
 <!--
 **inline-illana/inline-illana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I am Illana, a motorsport enthusiast, and an aspiring data analyst. Here are things to know about me:
+##### I. Currently studying applied mathematics, data science track.
+##### II. Currently working on MotoGP statistics as my own personal project.
+##### III. Looking to work on telemetry, but need resources to be able to begin.
+##### IV. Big motorsports fan, more particularly MotoGP, WSBK, Isle of Man, and FIM EWC.
